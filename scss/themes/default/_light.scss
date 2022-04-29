@@ -37,7 +37,7 @@
   --contrast-inverse: #{$white};
 
   // Highlighted text (<mark>)
-  --mark-background-color: #{mix($amber-100, $amber-50)};
+  --mark-background-color: #{mix($primary-300, $white)};
   --mark-color: #{mix($grey-900, $amber-900, 75%)};
 
   // Inserted (<ins>) & Deleted (<ins>)
